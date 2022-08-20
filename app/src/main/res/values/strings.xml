@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Batti  jalao</string>
+    <string name="light_on">Light On</string>
+    <string name="todolight">TODO</string>
+    <string name="flashlight_on">flashlight On</string>
+    <string name="flashlight">FLASHLIGHT</string>
+</resources>
